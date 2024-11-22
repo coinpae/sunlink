@@ -1,0 +1,17 @@
+{
+    "name": "Sunlink",
+    "symbol": "SUL",
+    "description": "Sunlink - A Solana Token",
+    "image": "https://coinpae.b-cdn.net/static/assets/media/svg/coins/logo-mark-sunlink.png",
+    "external_url": "https://sunlink.io",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://coinpae.b-cdn.net/static/assets/media/svg/coins/logo-mark-sunlink.png",
+                "type": "image/svg+xml"
+            }
+        ],
+        "category": "token",
+        "creators": []
+    }
+}
